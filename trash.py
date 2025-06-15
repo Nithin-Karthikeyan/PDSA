@@ -65,3 +65,5 @@ L = [5, 2, 8, 2, 4]
 sorted_list, swaps = selectionsort_with_counter(L.copy())
 print(f"Sorted list: {sorted_list}")
 print(f"Effective swaps: {swaps}")
+
+print("changes has been made")
